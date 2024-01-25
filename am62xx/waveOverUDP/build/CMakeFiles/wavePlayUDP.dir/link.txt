@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g -fvisibility=hidden -fno-exceptions -fno-rtti -rdynamic CMakeFiles/wavePlayUDP.dir/unix/wavePlayUDP.cpp.o CMakeFiles/wavePlayUDP.dir/Logger.cpp.o -o /root/Audio_Video/waveOverUDP/build-bin/wavePlayUDP  -lasound 

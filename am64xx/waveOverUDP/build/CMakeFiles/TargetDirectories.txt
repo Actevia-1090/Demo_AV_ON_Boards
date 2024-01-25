@@ -1,0 +1,4 @@
+/root/Audio_Video/waveOverUDP/build/CMakeFiles/wavePlayUDP.dir
+/root/Audio_Video/waveOverUDP/build/CMakeFiles/waveSendUDP.dir
+/root/Audio_Video/waveOverUDP/build/CMakeFiles/edit_cache.dir
+/root/Audio_Video/waveOverUDP/build/CMakeFiles/rebuild_cache.dir

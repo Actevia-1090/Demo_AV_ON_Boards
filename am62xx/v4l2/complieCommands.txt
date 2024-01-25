@@ -1,0 +1,13 @@
+Sender:-
+______________________-
+g++ -g -o sender v4LSend2UDP.cpp -o sender -lv4l2 -lopencv_core -lopencv_highgui -lopencv_imgcodecs -std=c++11
+
+
+Receiver:-
+_________________________
+
+
+g++ -g -o receiver final.cpp -I/usr/include/opencv4 -lopencv_core -lopencv_highgui -lopencv_imgcodecs -lopencv_imgproc
+
+
+

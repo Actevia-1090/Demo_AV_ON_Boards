@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g -fvisibility=hidden -fno-exceptions -fno-rtti -rdynamic CMakeFiles/waveSendUDP.dir/unix/waveSendUDP.cpp.o CMakeFiles/waveSendUDP.dir/Logger.cpp.o -o /root/Audio_Video/waveOverUDP/build-bin/waveSendUDP  -lasound 
